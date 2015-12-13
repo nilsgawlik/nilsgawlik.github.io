@@ -5,10 +5,17 @@
     border: 1px solid black;
 }
 
-p {
-    margin: auto;
+#game_buffer {
+    position: fixed;
+    visibility: hidden;
+}
+
+body {    
     margin-top: 60px;
-    margin-bottom: 0.5rem;
+}
+
+p {
+    margin: 0.5rem auto;
     width: 600px;
     text-align: center;
     font-size: 1.5rem;

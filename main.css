@@ -52,6 +52,7 @@ ul.horizontal li:first-child {
 body {
     margin: 0;
     padding: 0 12%;
+    padding-bottom: 5em;
 }
 
 section {}

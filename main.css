@@ -67,22 +67,17 @@ header {
 }
 
 h1 {
-    margin-left: 12%;
-    margin-left: 12%;
-    padding-top: 2em;
-    margin-bottom: 1em;
-    margin: 0;
-    font-size: 2em;
+    font-size: 32px;
     font-style: normal;
     font-weight: 300;
     letter-spacing: .2em;
 }
 
 h3 {
-    margin-top: 5em;
-    margin-bottom: 2em;
+    margin-top: 80px;
+    margin-bottom: 32px;
     letter-spacing: .1em;
-    font-size: 1em;
+    font-size: 16px;
     font-weight: 300;
     line-height: 150%;
 }
@@ -129,7 +124,7 @@ ul.menu li:first-child {
 body {
     margin: 0;
     padding: 0 12%;
-    padding-bottom: 5em;
+    padding-bottom: 80px;
 }
 
 a {
@@ -137,18 +132,18 @@ a {
 }
 
 header h3 {
-    margin-top: .5em;
+    margin-top: 8px;
 }
 
 section h3 {
-    margin-top: 3rem;
-    margin-bottom: 1.5rem;
+    margin-top: 48px;
+    margin-bottom: 24px;
     font-size: 112.5%;
 }
 
 section p {
     margin-top: 20px;
-    margin-bottom: 25px;
+    margin-bottom: 24px;
     line-height: normal;
 }
 
@@ -178,8 +173,8 @@ ul.game-section img {
 }
 
 footer {
-    margin-top: 5rem;
-    padding-top: 1rem;
+    margin-top: 80px;
+    padding-top: 16px;
     border-top: 1px solid black;
     font-size: 75%;
 }

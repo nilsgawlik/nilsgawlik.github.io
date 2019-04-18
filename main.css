@@ -91,6 +91,7 @@ h3 {
 
 ul.menu {
     margin-top: 30px;
+    list-style-type: none;
 }
 
 ul.menu li {
@@ -145,15 +146,19 @@ section h3 {
     font-size: 112.5%;
 }
 
-p {
+section p {
     margin-top: 20px;
     margin-bottom: 25px;
     line-height: normal;
 }
 
-li {
+section li {
     margin-left: 20px;
     line-height: normal;
+}
+
+section img {
+    max-width: 100%;
 }
 
 ul.game-section > li {

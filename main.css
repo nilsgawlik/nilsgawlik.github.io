@@ -154,6 +154,21 @@ li {
     margin: .5em 0;
 }
 
+ul.game-section > li {
+    display: inline-block;
+    margin-bottom: 30px;
+}
+
+ul.game-section h3{
+    margin-top: 6px;
+    margin-bottom: 5px;
+}
+
+ul.game-section img {
+    display: block;
+    max-width: 100%;
+}
+
 footer {
     margin-top: 5rem;
     padding-top: 1rem;

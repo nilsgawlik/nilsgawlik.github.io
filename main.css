@@ -122,8 +122,10 @@ ul.menu li:first-child {
 
 
 body {
-    margin: 0;
-    padding: 0 12%;
+    margin: 0 auto;
+    padding: 0 ;
+    width: 75vw;
+    max-width: 960px;
     padding-bottom: 80px;
 }
 

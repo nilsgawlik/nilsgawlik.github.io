@@ -1,3 +1,6 @@
 [submodule "PCGSummerSchool2019Project"]
 	path = PCGSummerSchool2019Project
 	url = https://github.com/nilsgawlik/PCGSummerSchool2019Project.git
+[submodule "js13k2919"]
+	path = js13k2919
+	url = https://github.com/nilsgawlik/js13k2919.git

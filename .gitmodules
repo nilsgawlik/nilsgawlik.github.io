@@ -4,3 +4,6 @@
 [submodule "js13k2919"]
 	path = js13k2919
 	url = https://github.com/nilsgawlik/js13k2919.git
+[submodule "gaw_20_01"]
+	path = gaw_20_01
+	url = https://github.com/nilsgawlik/gaw_20_01.git

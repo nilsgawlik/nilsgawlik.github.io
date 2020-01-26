@@ -7,3 +7,6 @@
 [submodule "gaw_20_01"]
 	path = gaw_20_01
 	url = https://github.com/nilsgawlik/gaw_20_01.git
+[submodule "game_a_week/gaw_20_03"]
+	path = game_a_week/gaw_20_03
+	url = https://github.com/nilsgawlik/gaw_20_03.git

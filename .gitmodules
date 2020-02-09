@@ -10,3 +10,6 @@
 [submodule "game_a_week/gaw_20_03"]
 	path = game_a_week/gaw_20_03
 	url = https://github.com/nilsgawlik/gaw_20_03.git
+[submodule "game_a_week/gaw_2020_05"]
+	path = game_a_week/gaw_2020_05
+	url = https://github.com/nilsgawlik/gaw_2020_05.git

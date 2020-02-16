@@ -13,3 +13,6 @@
 [submodule "game_a_week/gaw_2020_05"]
 	path = game_a_week/gaw_2020_05
 	url = https://github.com/nilsgawlik/gaw_2020_05.git
+[submodule "dirtySoundMachine"]
+	path = dirtySoundMachine
+	url = https://github.com/nilsgawlik/dirtySoundMachine.git

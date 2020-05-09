@@ -16,3 +16,6 @@
 [submodule "dirtySoundMachine"]
 	path = dirtySoundMachine
 	url = https://github.com/nilsgawlik/dirtySoundMachine.git
+[submodule "misc_projects/kilobytes"]
+	path = misc_projects/kilobytes
+	url = git@github.com:nilsgawlik/kilobytes.git

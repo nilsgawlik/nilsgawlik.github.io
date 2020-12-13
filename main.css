@@ -125,7 +125,7 @@ body {
     margin: 0 auto;
     padding: 0 ;
     width: 75vw;
-    max-width: 960px;
+    max-width: 980px;
     padding-bottom: 80px;
 }
 
@@ -160,8 +160,10 @@ section img {
 
 ul.game-section > li {
     display: inline-block;
+    vertical-align: top;
     margin-bottom: 30px;
     margin-left: 0;
+    width: 320px;
 }
 
 ul.game-section h3{
@@ -172,6 +174,8 @@ ul.game-section h3{
 ul.game-section img {
     display: block;
     max-width: 100%;
+    /* width: 315px;
+    height: 250px; */
 }
 
 footer {
